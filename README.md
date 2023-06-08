@@ -1,0 +1,1 @@
+# bitdefender-install-script
