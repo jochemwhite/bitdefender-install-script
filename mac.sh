@@ -1,5 +1,5 @@
 # Get the download url for the Mac installer from your GravityZone server and put it here
-DownloadUrl="https://cloud.gravityzone.bitdefender.com/webservice/CCORE_UPLOAD/model/Packages/downloadKit?csrfToken=fe19937e3f06e52fe6a47d919c828d206c9f02a5"
+DownloadUrl="https://cloud.gravityzone.bitdefender.com/Packages/MAC/0/yXadvW/setup_downloader.dmg"
 
 ### Modify below this line at your own risk!
 
