@@ -1,7 +1,7 @@
 # Insert your company-hash here. When you get the download link, this is the long alpha-numeric scring 
 # that comes after setupdownloader_ in the filename. 
 # Do not include the square brackets (but do include the = if there is one).
-$CompanyHash = "aHR0cHM6Ly9jbG91ZC1lY3MuZ3Jhdml0eXpvbmUuYml0ZGVmZW5kZXIuY29tL1BhY2thZ2VzL0JTVFdJTi8wL1lSZGlVTS9pbnN0YWxsZXIueG1sP2xhbmc9ZW4tVVM="
+$CompanyHash = "aHR0cHM6Ly9jbG91ZC1lY3MuZ3Jhdml0eXpvbmUuYml0ZGVmZW5kZXIuY29tL1BhY2thZ2VzL0JTVFdJTi8wLzFwaldyYi9pbnN0YWxsZXIueG1sP2xhbmc9ZW4tVVM="
 
 ### Modify below this line at your own risk!
 
